@@ -1,0 +1,26 @@
+{
+  "name": "soa-zmq",
+  "version": "0.0.1",
+  "description": "It is the testing environment of SOA ZMQ which is implementation of zmq-soa",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poyhsiao/test-soa-zmq.git"
+  },
+  "keywords": [
+    "zeromq",
+    "soa",
+    "testing",
+    "message",
+    "queue"
+  ],
+  "author": "Kim Hsiao",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/poyhsiao/test-soa-zmq/issues"
+  },
+  "homepage": "https://github.com/poyhsiao/test-soa-zmq"
+}
